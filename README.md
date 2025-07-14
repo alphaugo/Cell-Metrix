@@ -17,3 +17,11 @@ This project is a smart battery management system using an Arduino Nano and ESP8
 🔗 Uses UART communication between ESP8266 and Arduino Nano for seamless data transmission
 
 Ideal for solar-powered systems, portable battery setups, or educational hardware integration projects.
+
+                                                AI integration
+
+We trained a lightweight AI model using real-world BMS data. The model predicts battery anomalies using just temperature and voltage.
+
+It’s designed to enhance the decision-making of our BMS by identifying early failure risks 
+
+and recommending safe actions like activating the fan, cutting charge, or alerting the user
